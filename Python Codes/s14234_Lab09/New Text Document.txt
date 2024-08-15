@@ -1,0 +1,12 @@
+https://data.library.virginia.edu/understanding-q-q-plots/
+
+
+
+filter pandas dataframe by column value
+
+
+
+
+
+re.search() - only gives the first occurence of a string
+re.finditer() or re.findall() - gives a list of occurences of a string

@@ -1,0 +1,4 @@
+Protein length: 1147
+Molecular weight: 128469.92550000083
+Alanine percentage: 6.54%
+Glycine percentage: 6.8%
